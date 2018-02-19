@@ -9,7 +9,7 @@ server_scripts {
 }
 
 client_scripts {
-  "lib/Tunnel.lua",
-  "lib/Proxy.lua",
+  "Tunnel.lua",
+  "Proxy.lua",
   'client.lua'
 }
